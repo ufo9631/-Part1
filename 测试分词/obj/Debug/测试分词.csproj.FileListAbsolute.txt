@@ -1,0 +1,12 @@
+E:\D\code\测试分词\测试分词\bin\Debug\测试分词.exe
+E:\D\code\测试分词\测试分词\bin\Debug\测试分词.pdb
+E:\D\code\测试分词\测试分词\obj\Debug\测试分词.csprojAssemblyReference.cache
+E:\D\code\测试分词\测试分词\obj\Debug\测试分词.csproj.CoreCompileInputs.cache
+E:\D\code\测试分词\测试分词\obj\Debug\测试分词.exe
+E:\D\code\测试分词\测试分词\obj\Debug\测试分词.pdb
+E:\D\code\测试分词\测试分词\bin\Debug\测试分词.exe.config
+E:\D\code\测试分词\测试分词\bin\Debug\JiebaNet.Analyser.dll
+E:\D\code\测试分词\测试分词\bin\Debug\JiebaNet.Segmenter.dll
+E:\D\code\测试分词\测试分词\bin\Debug\Newtonsoft.Json.dll
+E:\D\code\测试分词\测试分词\bin\Debug\Newtonsoft.Json.xml
+E:\D\code\测试分词\测试分词\obj\Debug\测试分词.csproj.CopyComplete

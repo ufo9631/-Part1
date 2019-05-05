@@ -1,0 +1,11 @@
+E:\D\code\测试分词\装饰器模式\bin\Debug\netcoreapp2.2\装饰器模式.deps.json
+E:\D\code\测试分词\装饰器模式\bin\Debug\netcoreapp2.2\装饰器模式.runtimeconfig.json
+E:\D\code\测试分词\装饰器模式\bin\Debug\netcoreapp2.2\装饰器模式.runtimeconfig.dev.json
+E:\D\code\测试分词\装饰器模式\bin\Debug\netcoreapp2.2\装饰器模式.dll
+E:\D\code\测试分词\装饰器模式\bin\Debug\netcoreapp2.2\装饰器模式.pdb
+E:\D\code\测试分词\装饰器模式\obj\Debug\netcoreapp2.2\装饰器模式.csprojAssemblyReference.cache
+E:\D\code\测试分词\装饰器模式\obj\Debug\netcoreapp2.2\装饰器模式.csproj.CoreCompileInputs.cache
+E:\D\code\测试分词\装饰器模式\obj\Debug\netcoreapp2.2\装饰器模式.AssemblyInfoInputs.cache
+E:\D\code\测试分词\装饰器模式\obj\Debug\netcoreapp2.2\装饰器模式.AssemblyInfo.cs
+E:\D\code\测试分词\装饰器模式\obj\Debug\netcoreapp2.2\装饰器模式.dll
+E:\D\code\测试分词\装饰器模式\obj\Debug\netcoreapp2.2\装饰器模式.pdb
